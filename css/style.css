@@ -1,0 +1,33 @@
+/*logo*/
+header{
+    background-image: url(../img/pattern.png);
+    background-color: rgb(113, 158, 216);
+    margin: -8px;
+    height: 150px;
+    
+}
+#booleaner{
+    width: 300px;
+    margin-top: 50px;
+}
+/*main*/
+.centro{
+    margin-left: 169px;
+    margin-right: 132px;
+}
+.tittle{
+    font-size: 50px;
+}
+.giorni{
+    margin-bottom: 5px;
+    margin-top: -29px;
+}
+.bool{
+    color: rgb(51, 111, 190);
+}
+.wikimedia{
+    margin-top: 0px;
+}
+.mark{
+    background-color: gold;
+}
