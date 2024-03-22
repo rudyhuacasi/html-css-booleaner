@@ -9,6 +9,7 @@ header{
 #booleaner{
     width: 300px;
     margin-top: 50px;
+    margin-left: 169px;
 }
 /*main*/
 .centro{
@@ -30,4 +31,37 @@ header{
 }
 .mark{
     background-color: gold;
+}
+/*table*/
+table{
+    text-align: left;
+    border-collapse: collapse;
+}
+thead{
+    background-color: rgb(0, 204, 255);
+    color: white;
+}
+.table-color{
+    background-color: rgb(144, 233, 255);
+}
+.terzo{
+    width: 50%;
+}
+.bl{
+    background-color: rgb(0, 204, 255);
+}
+/*footer*/
+.monitor{
+    background-image: url(../img/monitor.jpg);
+    height: 200px;
+    background-repeat: no-repeat;
+}   
+.graph{
+    background-image: url(../img/graph.jpg);
+    height: 200px;
+    background-repeat: no-repeat;
+}
+h2{
+    color: white;
+    padding: 15px;
 }
